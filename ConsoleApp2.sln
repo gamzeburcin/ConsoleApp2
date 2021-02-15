@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{68974DC1-2A32-4B80-8FA9-A2B60AC89E5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP4", "OOP4\OOP4.csproj", "{245DFEB8-E177-4469-BC49-0A98B65305DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP4", "OOP4\OOP4.csproj", "{245DFEB8-E177-4469-BC49-0A98B65305DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{FF43F5DC-0DDF-4544-8D7C-8FBAA1863D61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{245DFEB8-E177-4469-BC49-0A98B65305DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{245DFEB8-E177-4469-BC49-0A98B65305DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{245DFEB8-E177-4469-BC49-0A98B65305DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF43F5DC-0DDF-4544-8D7C-8FBAA1863D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF43F5DC-0DDF-4544-8D7C-8FBAA1863D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF43F5DC-0DDF-4544-8D7C-8FBAA1863D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF43F5DC-0DDF-4544-8D7C-8FBAA1863D61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
